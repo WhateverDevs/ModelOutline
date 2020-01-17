@@ -1,12 +1,12 @@
 {
   "name": "whateverdevs.model-outline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "com.unity.render-pipelines.universal" : "7.1.7"
   },
   "displayName": "Model Outline",
-  "description": "Custom renderer that adds a feature to create an outline around a model.",
-  "unity": "2019.3",
+  "description": "Custom renderer that adds a feature to create an outline around a model.\nThis needs Unity 2019.3, but the lowest version is set to 2019.2 as Unity 2019.3 has not yet been released.",
+  "unity": "2019.2",
   "author": {
     "name": "Whatever Devs",
     "url": "https://discord.gg/B8aaMzJ"
